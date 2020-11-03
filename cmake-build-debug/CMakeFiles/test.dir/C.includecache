@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lihao/Library/Mobile Documents/com~apple~CloudDocs/Desktop/公文包/大学/大二/clion/test/main.c
+stdio.h
+-
+
